@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7c6ef3d-3424-4fd1-ad3a-5ca66773d812" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/org/example/Example.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/groovy/org/example/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/groovy/org/example/ExampleTest.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/groovy/org/example/HelperTest.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/org/example/Example.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/org/example/Helper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/groovy/org/example/ExampleTest.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/groovy/org/example/HelperTest.groovy" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Kqr5w9oDRzFIjfKhKkmnTsAxXB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -33,7 +33,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -45,6 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674712775524</updated>
       <workItem from="1674712778534" duration="44000" />
+      <workItem from="1674712985358" duration="824000" />
     </task>
     <servers />
   </component>
